@@ -1,0 +1,5 @@
+- Waktu pengerjaan 1 minggu, sampai Kamis/20 Oktober 2022
+- file yang dikumpul hanya file JavaScript saja
+- berinama file javascriptnya "uts-nama lengkap-nim.js"
+- Dikumpul paling lambat 20 Oktober 2022, Pukul 08:00
+- Diharapkan untuk datang ke kampus ketika UTS untuk mengisi presensi/kehadiran!
